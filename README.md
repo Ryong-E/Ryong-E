@@ -1,3 +1,23 @@
 ### Hi there 👋
 
-[![Ryong-E's github stats](https://github-readme-stats.vercel.app/api?username=Ryong-E)](https://github.com/anuraghazra/github-readme-stats)
+### 💁🏻‍♂️introduction
+프론트엔드 개발자로 성장중 입니다 엘리스 부트캠프에서 열심히 공부중입니다.
+
+![Ryong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryong-E&show_icons=true&theme=radical)
+
+___ 
+
+<div align="center">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryong-E&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+
+### 🐉 Ryong-E 
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Recoil-black?style=flat-square&logo=Recoil&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+</div>
