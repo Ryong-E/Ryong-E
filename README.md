@@ -3,6 +3,9 @@
 ### 💁🏻‍♂️introduction
 프론트엔드 개발자로 성장중 입니다 엘리스 부트캠프에서 열심히 공부중입니다.
 
+### Contact
+  think8867@gmail.com
+
 ![Ryong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryong-E&show_icons=true&theme=radical)
 
 ___ 
