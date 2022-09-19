@@ -6,7 +6,6 @@
 ### Contact
   think8867@gmail.com
 
-![Ryong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryong-E&show_icons=true&theme=radical)
 
 ___ 
 
