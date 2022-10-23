@@ -11,7 +11,7 @@ ___
 
 <div align="center">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryong-E&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryong-E&show_icons=true&theme=blueberry)
 
 ### 🐉 Ryong-E 
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
