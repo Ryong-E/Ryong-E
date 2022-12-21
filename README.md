@@ -1,15 +1,15 @@
-### Hi there 👋
-
-### Contact
-  think8867@gmail.com
-
-
+<div align='center'>
+  <p><b>🖥프론트엔드 개발자 한동룡입니다</b>
+    
+  📬Email: think8867@gmail.com
+    
+  📔Blog: https://velog.io/@ryong-e
+  </p>
+ </div>
+ 
 ___ 
 
 <div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryong-E&show_icons=true&theme=blueberry)
-
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
