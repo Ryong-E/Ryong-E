@@ -3,7 +3,7 @@
     
   📬Email: think8867@gmail.com
     
-  📔Blog: https://velog.io/@ryong-e
+  📔Blog: https://handongryong.com
   </p>
  </div>
  
